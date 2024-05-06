@@ -64,7 +64,6 @@
 <details>
 <summary><b>💻 Tech Stack</b></summary>
 <ul>
-Tech Stack
 <li>NEXT</li>
 <li>Typescript</li>
 <li>Tailwind</li>
