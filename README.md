@@ -27,7 +27,7 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled%20components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%DB7093)
-![CSS Modules](https://img.shields.io/badge/CSS%20Modules-🎨-blueviolet?style=for-the-badge)
+![CSS Modules](https://img.shields.io/badge/cssmodules-%23E0234E.svg)
 
 ### Tools:
 
