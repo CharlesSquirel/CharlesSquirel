@@ -56,6 +56,7 @@
 
 <a href="https://github.com/CharlesSquirel/chillair-protocols" target="_blank">
 	<img src="https://i.imgur.com/Dh6bHQv.jpeg" alt="protocols system dashboard" width="50%" align="right" >
+	<br></br>
 </a>
 	
 <h3>📌 Protocols system (in progress)</h3>
