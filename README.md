@@ -67,6 +67,7 @@
 <li>NEXT</li>
 <li>Typescript</li>
 <li>Tailwind</li>
+<li>React Hook Form with Zod</li>
 <li>Next-Auth</li>
 <li>MongoDB</li>
 <li>Puppeteer</li>
