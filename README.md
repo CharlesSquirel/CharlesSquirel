@@ -83,10 +83,16 @@
 	<img src="https://i.imgur.com/wKw3nqk.png" width="50%" align="right" >
 </a>
   
-<h3>📌 Nietuzinkowe Biuro Tłumaczeń – landing page </h3>
+<h3>📌 Nietuzinkowe Biuro Tłumaczeń </h3>
 <h4>This is a minimalist website - a business card for a person providing translation services from English.</h4>
 <h4>📑 Project description: </h4>
-<p> This is actually my first, fully commercial project, which I supervised from idea and design to final deployment. It came out of the need of my dear friend, for whom I made it. I invited a designer to cooperate with me, who, like me, is learning her craft and collecting projects for her portfolio. At this point I would like to thank her very much. The website is supposed to be minimalist, business card-like with a certain number of subpages and a contact form. I decided to use Next due to its native SEO optimization and possible future expansion of the project with CMS and internationalization. This technology also proved helpful in issuing a simple API for nodemailer.</p>
+<p> This is actually my first, fully commercial project, which I supervised from idea and design to final deployment.
+
+It came out of the need of my dear friend, for whom I made it. I invited a designer to cooperate with me, who, like me, is learning her craft and collecting projects for her portfolio. At this point I would like to thank her very much.
+
+The website is supposed to be minimalist, business card-like with a certain number of subpages and a contact form.
+
+I decided to use Next due to its native SEO optimization and possible future expansion of the project with CMS and internationalization. This technology also proved helpful in issuing a simple API for nodemailer.</p>
 <details>
 <summary><b>💻 Tech Stack</b></summary>
 <ul>
