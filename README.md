@@ -1,6 +1,4 @@
-### Hello there 🖐 (like Obi-Wan Kenobi 😃)
-
-<p>I'm a software engineering student at College of Economics and Computer Sience in Krakau. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 😉</p>
+### Hello there 🖐
 
 ---
 
