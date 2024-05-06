@@ -61,4 +61,15 @@
 <h3>📌 Protocols system (in progress)</h3>
 <h4>📑 Project description:</h4>
 <p>The system allows the user to create, edit and delete various types of protocols from the air conditioning and refrigeration industry, sort and search them, create PDF versions and send them by e-mail. Also includes user login and registration</p>
+<ul>
+Tech Stack
+<li>NEXT</li>
+<li>Typescript</li>
+<li>Tailwind</li>
+<li>Next-Auth</li>
+<li>MongoDB</li>
+<li>Puppeteer</li>
+<li>Nodemailer</li>
+<li>Prisma</li>
+</ul>
 <p>💻 Link to repository: https://github.com/CharlesSquirel/chillair-protocols </p>
