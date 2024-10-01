@@ -54,7 +54,7 @@
 
 ### 💻 My main projects
 
-<a href="https://github.com/CharlesSquirel/chillair-protocols" target="_blank">
+<a style="margin-bottom: 10px" href="https://github.com/CharlesSquirel/chillair-protocols" target="_blank">
 	<img src="https://i.imgur.com/Dh6bHQv.jpeg" alt="protocols system dashboard" width="50%" align="right" >
 </a>
 	
@@ -78,7 +78,7 @@
 <li>Prisma</li>
 </ul>
 </details>
-<p style="margin-bottom: 10px">💻 Link to repository: https://github.com/CharlesSquirel/chillair-protocols </p>
+<p>💻 Link to repository: https://github.com/CharlesSquirel/chillair-protocols </p>
 
 <br>
 </br>
