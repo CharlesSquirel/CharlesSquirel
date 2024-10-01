@@ -86,8 +86,10 @@
 <a href="https://github.com/CharlesSquirel/NBT-Biuro-t-umacze-" target="_blank">
 	<img src="https://i.imgur.com/wKw3nqk.png" width="50%" align="right" >
 </a>
+
   <br>
   </br>
+  
 <h3>📌 Nietuzinkowe Biuro Tłumaczeń </h3>
 <h4>This is a minimalist website - a business card for a person providing translation services from English.</h4>
 <details>
