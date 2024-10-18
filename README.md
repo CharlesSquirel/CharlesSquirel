@@ -85,7 +85,7 @@
 ---
 
 <a href="https://github.com/CharlesSquirel/NBT-Biuro-t-umacze-" target="_blank">
-	<img src="https://imgur.com/a/6X85qbs" width="50%" align="right" >
+	<img src="https://i.imgur.com/wKw3nqk.png" width="50%" align="right" >
 </a>
   
 <h3>📌 Nietuzinkowe Biuro Tłumaczeń </h3>
@@ -118,7 +118,7 @@ I decided to use Next due to its native SEO optimization and possible future exp
 ---
 
 <a href="https://github.com/CharlesSquirel/NBT-Biuro-t-umacze-" target="_blank">
-	<img src="https://i.imgur.com/wKw3nqk.png" width="50%" align="right" >
+	<img src="https://imgur.com/a/6X85qbs" width="50%" align="right" >
 </a>
   
 <h3>📌 Caffeeroaster Forntendmentor </h3>
