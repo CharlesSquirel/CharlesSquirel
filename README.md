@@ -117,7 +117,7 @@ I decided to use Next due to its native SEO optimization and possible future exp
 
 ---
 
-<a href="https://github.com/CharlesSquirel/NBT-Biuro-t-umacze-" target="_blank">
+<a href="https://github.com/CharlesSquirel/caffeeroaster_frontendmentor" target="_blank">
 	<img src="https://i.imgur.com/xT1Mi3T.png" width="50%" align="right" >
 </a>
   
