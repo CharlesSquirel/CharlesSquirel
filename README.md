@@ -84,8 +84,8 @@
 
 ---
 
-<a href="https://github.com/CharlesSquirel/NBT-Biuro-t-umacze-" target="_blank">
-	<img src="https://i.imgur.com/wKw3nqk.png" width="50%" align="right" >
+<a href="(https://github.com/CharlesSquirel/caffeeroaster_frontendmentor)" target="_blank">
+	<img src="[https://i.imgur.com/wKw3nqk.png](https://imgur.com/a/6X85qbs)" width="50%" align="right" >
 </a>
   
 <h3>📌 Nietuzinkowe Biuro Tłumaczeń </h3>
@@ -114,3 +114,23 @@ I decided to use Next due to its native SEO optimization and possible future exp
 </details>
 <p>💻 Link to repository: https://github.com/CharlesSquirel/NBT-Biuro-t-umacze- </p>
 <p>💻 Link to site: https://nbt.lublin.pl/ </p>
+
+---
+
+<a href="https://github.com/CharlesSquirel/NBT-Biuro-t-umacze-" target="_blank">
+	<img src="https://i.imgur.com/wKw3nqk.png" width="50%" align="right" >
+</a>
+  
+<h3>📌 Caffeeroaster Forntendmentor </h3>
+<h4>My last frontendmentor's project – https://www.frontendmentor.io/challenges/coffeeroasters-subscription-site-5Fc26HVY6</h4>
+<details>
+<summary><b>💻 Tech Stack</b></summary>
+<ul>
+<li>NEXT</li>
+<li>Typescript</li>
+<li>Tailwind</li>
+<li>React Hook Form</li>
+</ul>
+</details>
+<p>💻 Link to repository: https://github.com/CharlesSquirel/caffeeroaster_frontendmentor</p>
+<p>💻 Link to site: https://caffeeroaster-frontendmentor.vercel.app/</p>
