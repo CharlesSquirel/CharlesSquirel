@@ -84,8 +84,8 @@
 
 ---
 
-<a href="(https://github.com/CharlesSquirel/caffeeroaster_frontendmentor)" target="_blank">
-	<img src="[https://i.imgur.com/wKw3nqk.png](https://imgur.com/a/6X85qbs)" width="50%" align="right" >
+<a href="https://github.com/CharlesSquirel/NBT-Biuro-t-umacze-" target="_blank">
+	<img src="https://imgur.com/a/6X85qbs" width="50%" align="right" >
 </a>
   
 <h3>📌 Nietuzinkowe Biuro Tłumaczeń </h3>
